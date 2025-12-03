@@ -1,6 +1,10 @@
 # Run Z-Image-Turbo on Google Colab T4 Free GPU <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Z-Image-Colab/blob/main/Z_Image_Turbo.ipynb)
 
+
+![app](https://github.com/user-attachments/assets/b223f8a4-d09e-4542-888d-0a4bca24f934)
+
+
 <table>
 <tr>
 <td><img src="https://github.com/user-attachments/assets/6e4170ee-b95a-4a8c-aff2-f63ce4194031" width="100%"></td>
