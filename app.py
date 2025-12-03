@@ -95,11 +95,8 @@ def generate_ui(
     return image_path,image_path,seed
 
 
-# ---------------- DEFAULT PROMPTS ----------------
 
-DEFAULT_POSITIVE = """A photorealistic tabby cat sprinting through a Dutch fish market
-while hugging a giant silver fish, dramatic face, cinematic lighting, freeze-frame action,
-shallow depth of field, ultra-detailed, natural motion blur."""
+DEFAULT_POSITIVE = """A beautiful woman with platinum blond hair that is almost white, snowy white skin, red bush, very big plump red lips, high cheek bones and sharp. She has almond shaped red eyes and she's holding a intricate mask. She's wearing white and gold royal gown with a black cloak.  In the veins of her neck its gold."""
 
 DEFAULT_NEGATIVE = """low quality, blurry, unnatural skin tone, bad lighting, pixelated,
 noise, oversharpen, soft focus,pixelated"""
